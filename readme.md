@@ -1,4 +1,4 @@
-# Churn Prediction Model README
+# SECURING LOYALTY: CUSTOMER CHURN PREDICTION IN TELCO
 
 ## Overview
 
