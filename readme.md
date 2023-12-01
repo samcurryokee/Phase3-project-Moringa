@@ -50,7 +50,7 @@ Findings:
 
 These initial observations provide a foundational understanding of how customer characteristics may influence churn.
 
-![Alt text](image.png)
+![Alt text](plots/image.png)
 
 ### Service Subscriptions Impact
 
