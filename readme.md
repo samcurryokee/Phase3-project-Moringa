@@ -1,6 +1,6 @@
 # SECURING LOYALTY: CUSTOMER CHURN PREDICTION IN TELCO
 
-## Overview
+## Overview.
 
 This project focuses on predicting customer churn using machine learning techniques. The goal is to build a model that effectively identifies customers at risk of churning, allowing businesses to implement proactive retention strategies.
 
