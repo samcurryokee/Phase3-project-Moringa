@@ -229,4 +229,6 @@ The evolving nature of customer preferences and industry trends necessitates an 
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
   - [Churn Distribution Analysis](#churn-distribution-analysis)
   - [Customer Characteristics and Churn](#customer-characteristics-and-churn)
+- [Model Deployment](#model-deployment)
+
 
